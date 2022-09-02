@@ -1,2 +1,1 @@
-# vue-project1
-todoApp
+https://wonseok-dd.github.io/vue-project1/index.html
